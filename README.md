@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Web Applications
+- 🔭 Trabajo con servidores y páginas web. Priorizo la seguridad, otro campo que me apasiona.
+- 💪 Realizo lo que me gusta y llama la atención. Autodidacta ganandome mi nombre. 
 - 📫 How to reach me: ricardo.rocamora@outlook.com.ar
 
 <!--
