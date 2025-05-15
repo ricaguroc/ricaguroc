@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 Trabajo con servidores y páginas web. Priorizo la seguridad, otro campo que me apasiona.
-- 💪 Realizo lo que me gusta y llama la atención. Autodidacta ganandome mi nombre. 
+- 💪 Realizo lo que me gusta y llama la atención. 
 - 📫 How to reach me: ricardo.rocamora@outlook.com.ar
 
 <!--
