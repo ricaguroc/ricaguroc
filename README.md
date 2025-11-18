@@ -2,7 +2,7 @@
 
 - 🔭 Trabajo con servidores y páginas web. Priorizo la seguridad, otro campo que me apasiona.
 - 💪 Realizo lo que me gusta y llama la atención. 
-- 📫 How to reach me: ricardo.rocamora@outlook.com.ar
+- 📫 Contactame: ricaguroc@gmail.com
 
 <!--
 **ricaguroc/ricaguroc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
