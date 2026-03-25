@@ -17,23 +17,9 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠛⠛⠛⠛⠛⠊⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 
-## Hi there 👋
+## Holaa soy yo , Ricardo 
 
-- 🔭 Trabajo con servidores y páginas web. Priorizo la seguridad, otro campo que me apasiona.
-- 💪 Realizo lo que me gusta y llama la atención. 
-- 📫 Contactame: ricaguroc@gmail.com
+- Trabajo con servidores, la nube y páginas web. Campos que tambien explore son la ciberseguridad, web3 e inteligencia artificial.
+- Mi contacto es ricaguroc@gmail.com
+- 
 
-<!--
-**ricaguroc/ricaguroc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
