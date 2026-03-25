@@ -3,6 +3,8 @@
 - Trabajo con servidores, la nube y páginas web. Campos que tambien explore son la ciberseguridad, web3 e inteligencia artificial. 
 - Mi contacto es ricaguroc@gmail.com
 
+
+```text
 __________________¶¶¶____¶¶¶____1¶¶1______________
 ___________________¶¶¶____¶¶¶____¶¶¶______________
 ___________________¶¶¶____¶¶¶____¶¶¶______________
