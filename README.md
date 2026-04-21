@@ -1,6 +1,6 @@
 ## Holaa soy yo , Ricardo 
 
-- Trabajo con servidores, la nube y páginas web. Campos que también me gustan son la ciberseguridad y web3. Uso IA para casi todo y me gusta pensar cómo meterla en los proyectos que caen en mis manos.
+- Trabajo con servidores, la nube y páginas web. Campos que también me gustan son la ciberseguridad y web3. 
 - Mi contacto es ricaguroc@gmail.com
 
 
